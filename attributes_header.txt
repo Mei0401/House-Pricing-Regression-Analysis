@@ -1,0 +1,19 @@
+2016 Census Profiles Files / Profile of Census Tracts
+COL0 - GEO UID
+COL1 - Population and dwelling counts / Population density per square kilometre
+COL2 - Age & Sex - Both sexes / Average age of the population ; Both sexes
+COL3 - Marital Status - Both Sexes / Total - Marital status for the population aged 15 years and over - 100% data ; Both sexes
+COL4 - Marital Status - Both Sexes / Total - Marital status for the population aged 15 years and over - 100% data ; Both sexes / Married or living common law ; Both sexes
+COL5 - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of total income recipients aged 15 years and over in private households - 100% data / Median total income in 2015 among recipients ($)
+COL6 - Immigration - Total Sex / Total - Citizenship for the population in private households - 25% sample data
+COL7 - Immigration - Total Sex / Total - Citizenship for the population in private households - 25% sample data / Canadian citizens
+COL8 - Housing - Total Sex / Total - Occupied private dwellings by condominium status - 25% sample data
+COL9 - Housing - Total Sex / Total - Occupied private dwellings by condominium status - 25% sample data / Condominium
+COL10 - Housing - Total Sex / Total - Private households by tenure - 25% sample data
+COL11 - Housing - Total Sex / Total - Private households by tenure - 25% sample data / Owner
+COL12 - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data
+COL13 - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data / Postsecondary certificate, diploma or degree / University certificate, diploma or degree at bachelor level or above
+COL14 - Labour - Total Sex / Employment rate
+COL15 - Journey to Work - Total Sex / Total - Commuting duration for the employed labour force aged 15 years and over in private households with a usual place of work or no fixed workplace address - 25% sample data
+COL16 - Journey to Work - Total Sex / Total - Commuting duration for the employed labour force aged 15 years and over in private households with a usual place of work or no fixed workplace address - 25% sample data / Less than 15 minutes
+COL17 - Journey to Work - Total Sex / Total - Commuting duration for the employed labour force aged 15 years and over in private households with a usual place of work or no fixed workplace address - 25% sample data / 15 to 29 minutes
